@@ -81,6 +81,7 @@ echo "
         <input type=\"text\" class=\"form-control\" name=\"username\" placeholder=\"admin\" style=\"width:20%;\" required autofocus>
         <input type=\"password\" class=\"form-control\" name=\"password\" placeholder=\"password\" style=\"width:20%;\" required>
         <button class=\"btn btn-lg btn-primary btn-block\" type=\"submit\" name=\"Login\" style=\"width:20%;\">Sign in</button>
+        <p style=\"text-align:center;\"><a href=\"./setup.php\">Setup DVWA WOOYUN</a></p>
       </form>
 
 
